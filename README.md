@@ -1,2 +1,2 @@
-# web-ban-hang
-web ban quan ao
+# app-ban-hang
+app ban quan ao
